@@ -79,7 +79,7 @@ Future features planned for this library:
 - Add more features
 - Fix and finish LLM integration.
 
-> [!NOTE]
+> [!IMPORTANT]
 > This library is still in development, so there may bugs or unfinished features.
 
 ## Version & Branches

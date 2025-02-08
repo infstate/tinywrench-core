@@ -51,3 +51,45 @@ Or use the pre-made example:
 ```bash
 python3 examples/python_example.py
 ```
+
+## Contributing
+
+We welcome contributions to improve this library! If you'd like to contribute, please follow these steps:
+
+1.  Fork the repository.
+2.  Create a new branch (`git checkout -b feature-name`).
+3.  Make your changes and commit (`git commit -am 'Add new feature'`).
+4.  Push to your branch (`git push origin feature-name`).
+5.  Create a new Pull Request.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## Roadmap
+
+Future features planned for this library:
+
+- Easier API syntax with Python by making a PyPi package.
+- Add Playbook support
+- Add more features
+- Fix and finish LLM integration.
+
+## Version & Branches
+
+| Branch      | Version |                  |
+| ----------- | ------- | ---------------- |
+| Stable      | 0.0.0   | [In Development] |
+| Development | 0.1.0   |                  |
+
+---
+
+## Part of Infinite's Code Charity 2025 Event
+
+![CharityBanner](docs/assets/BannerCharity.jpg)
+
+# Join and Contribute!

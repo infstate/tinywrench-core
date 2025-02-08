@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-#include "system_detector.h"
+#include "system_detector.hpp"
 
 // Convert std::string to C-style string
 const char* detect_os() {

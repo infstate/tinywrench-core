@@ -5,8 +5,9 @@
 extern "C" {  // Ensure compatibility with Python, Rust, Go, etc.
 #endif
 
+namespace Playbook {
 void install_software(const char* package_name);
-
+}
 #ifdef __cplusplus
 }
 #endif

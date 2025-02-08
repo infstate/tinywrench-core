@@ -91,6 +91,11 @@ Future features planned for this library:
 
 ---
 
+
+# Credits
+
+- Thanks to @Mohido on Github for making the Tiny_Yaml library that's used in this Library
+
 ## Part of Infinite's Code Charity 2025 Event
 
 ![CharityBanner](docs/assets/BannerCharity.jpg)
